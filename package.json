@@ -1,0 +1,31 @@
+{
+  "name": "lesson_15.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltybc157/Lesson-15.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltybc157/Lesson-15/issues"
+  },
+  "homepage": "https://github.com/ltybc157/Lesson-15#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-es6-promise": "^1.1.1",
+    "formdata-polyfill": "^3.0.17",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "es6-promise": "^4.2.6"
+  }
+}
